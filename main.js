@@ -1,5 +1,5 @@
 const linksSocialMedia = {
-  github: 'Yure-nathan',
+  github: 'YureNathan',
   instagram: '_yurenathan',
   facebook: 'Yure.Nathan0101',
   youtube: 'Yure_Nathan',
